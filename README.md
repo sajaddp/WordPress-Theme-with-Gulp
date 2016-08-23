@@ -10,9 +10,8 @@ This theme use wpelixir.
 	1- download theme.
 	2- copy to 'wp-content\themes\ThemeName'.
 	3- in terminal go to `wp-content\themes\ThemeName` and run:
-		```javascript
-			npm install
-		```
+		"npm install"
+		
 #Usage Gulp:
 	- Edit "gulpfile.js".
 	- run "gulp".
