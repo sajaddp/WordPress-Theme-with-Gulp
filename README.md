@@ -14,4 +14,4 @@ This theme use "laravel-elixir" and "wpelixir".
 		
 #Usage Gulp:
 	- Edit "gulpfile.js".
-	- run "gulp".
+	- run "gulp" or use "gulp --production" for minify version.
