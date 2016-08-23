@@ -1,6 +1,6 @@
 # WordPress Theme with Gulp
 a simple WordPress theme with gulp
-This theme use "laravel-elixir" for gulp.
+This theme use "laravel-elixir" and "wpelixir".
 #Requerment: 
 	- npm
 	- gulp
