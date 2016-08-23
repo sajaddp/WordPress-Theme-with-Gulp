@@ -1,6 +1,6 @@
 </div>
 <footer class="footer">
-	<p>تمامی حقوق محفوظ است</p>
+	
 </footer>
 
 </div>
