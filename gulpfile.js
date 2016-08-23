@@ -1,5 +1,5 @@
 var elixir = require('laravel-elixir');
-require('laravel-elixir-livereload');
+
 //gulp --production
 
 elixir.config.assetsPath = 'assets/';
