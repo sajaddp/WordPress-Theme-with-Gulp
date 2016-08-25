@@ -2,7 +2,6 @@
 <html lang="fa">
 <head>
 	<title><?php wp_title( '|', TRUE, 'right' ); ?></title>
-	<meta name="fontiran.com:license" content="NU8C4">
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=9">
