@@ -22,3 +22,20 @@
     url('../fonts/Samim-persian-digits-overwrite.woff') format('woff'),
     url('../fonts/Samim-persian-digits-overwrite.ttf') format('truetype');
 }
+
+@font-face {
+    font-family: Tanha;
+    src: url('../fonts/Tanha.eot');
+    src: url('../fonts/Tanha.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Tanha.woff') format('woff'),
+    url('../fonts/Tanha.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Tanha-persian-digits-overwrite;
+    src: url('../fonts/Tanha-persian-digits-overwrite.eot');
+    src: url('../fonts/Tanha-persian-digits-overwrite.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Tanha-persian-digits-overwrite.woff') format('woff'),
+    url('../fonts/Tanha-persian-digits-overwrite.ttf') format('truetype');
+}
