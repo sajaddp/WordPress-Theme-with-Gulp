@@ -1,41 +1,27 @@
+/*https://github.com/rastikerdar/vazir-font*/
 @font-face {
-    font-family: Samim;
-    src: url('../fonts/Samim.eot');
-    src: url('../fonts/Samim.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/Samim.woff') format('woff'),
-    url('../fonts/Samim.ttf') format('truetype');
-    font-weight: normal;
+	font-family: Vazir;
+	src:         url('../fonts/Vazir.eot');
+	src:         url('../fonts/Vazir.eot?#iefix') format('embedded-opentype'),
+	             url('../fonts/Vazir.woff') format('woff'),
+	             url('../fonts/Vazir.ttf') format('truetype');
+	font-weight: normal;
 }
 
 @font-face {
-    font-family: Samim;
-    src: url('../fonts/Samim-Bold.eot');
-    src: url('../fonts/Samim-Bold.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/Samim-Bold.woff') format('woff'),
-    url('../fonts/Samim-Bold.ttf') format('truetype');
-    font-weight: bold;
-}
-@font-face {
-    font-family: Samim-persian-digits-overwrite;
-    src: url('../fonts/Samim-persian-digits-overwrite.eot');
-    src: url('../fonts/Samim-persian-digits-overwrite.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/Samim-persian-digits-overwrite.woff') format('woff'),
-    url('../fonts/Samim-persian-digits-overwrite.ttf') format('truetype');
+	font-family: Vazir;
+	src:         url('../fonts/Vazir-Bold.eot');
+	src:         url('../fonts/Vazir-Bold.eot?#iefix') format('embedded-opentype'),
+	             url('../fonts/Vazir-Bold.woff') format('woff'),
+	             url('../fonts/Vazir-Bold.ttf') format('truetype');
+	font-weight: bold;
 }
 
 @font-face {
-    font-family: Tanha;
-    src: url('../fonts/Tanha.eot');
-    src: url('../fonts/Tanha.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/Tanha.woff') format('woff'),
-    url('../fonts/Tanha.ttf') format('truetype');
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: Tanha-persian-digits-overwrite;
-    src: url('../fonts/Tanha-persian-digits-overwrite.eot');
-    src: url('../fonts/Tanha-persian-digits-overwrite.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/Tanha-persian-digits-overwrite.woff') format('woff'),
-    url('../fonts/Tanha-persian-digits-overwrite.ttf') format('truetype');
+	font-family: Vazir;
+	src:         url('../fonts/Vazir-Light.eot');
+	src:         url('../fonts/Vazir-Light.eot?#iefix') format('embedded-opentype'),
+	             url('../fonts/Vazir-Light.woff') format('woff'),
+	             url('../fonts/Vazir-Light.ttf') format('truetype');
+	font-weight: 300;
 }
