@@ -1,17 +1,22 @@
 # WordPress Theme with Gulp
 a simple WordPress theme with gulp
-This theme use "laravel-elixir" and "wpelixir".
-#Requerment: 
-	- npm
-	- gulp
 
 # Install
-
-	1- download theme.
+	1- Download theme.
 	2- copy to 'wp-content\themes\ThemeName'.
 	3- in terminal go to `wp-content\themes\ThemeName` and run:
 		"npm install"
-		
-#Usage Gulp:
+	4- Enjoy gulp!
+
+# Usage Gulp:
 	- Edit "gulpfile.js".
-	- run "gulp" or use "gulp --production" for minify version.
+	- run "gulp".
+
+	## Install
+
+    #### Download
+    1- Grab the [latest release](https://github.com/sajaddp/WordPress-Theme-with-Gulp/releases/latest) file.
+	2- copy to 'wp-content\themes\ThemeName'.
+	3- Go to `wp-content\themes\ThemeName` and run:
+		"npm install"
+	4- Enjoy it!
