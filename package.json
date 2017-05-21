@@ -1,7 +1,6 @@
 {
   "name": "wordpress-theme-with-gulp",
   "version": "1.0.0",
-  "description": "a simple theme for using gulp in wordpress theme",
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
@@ -12,7 +11,6 @@
     "gulp-imagemin": "^3.1.1",
     "gulp-sourcemaps": "^2.4.0",
     "gulp-uglify": "^2.0.1"
-
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
