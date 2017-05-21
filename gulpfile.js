@@ -1,5 +1,5 @@
 /* In the Name of GOD */
-//gulp --prquire('gulp');
+
 let gulp       = require('gulp');
 let concatCss  = require('gulp-concat-css');
 let cleanCss   = require('gulp-clean-css');
@@ -42,8 +42,8 @@ gulp.task('fonts', () =>
 });
 gulp.task('default', ['css', 'scripts', 'images', 'fonts'], () =>
 {
-    //    gulp.watch('./assets/css/*.css',['css']);
-    //    gulp.watch('./assets/js/*.js',['scripts']);
-    //    gulp.watch('./assets/images/**/*.*',['images']);
-    //    gulp.watch('./assets/fonts/*.*',['fonts']);
+        gulp.watch('./assets/css/*.css',['css']);
+        gulp.watch('./assets/js/*.js',['scripts']);
+        gulp.watch('./assets/images/**/*.*',['images']);
+        gulp.watch('./assets/fonts/*.*',['fonts']);
 });

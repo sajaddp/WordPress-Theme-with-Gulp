@@ -7,6 +7,6 @@ a simple WordPress theme with gulp
 - Go to `wp-content\themes\ThemeName` and run: `npm install`
 - Enjoy it!
 
-# Usage Gulp:
+# Usage:
 - Edit `gulpfile.js`.
-- Run `gulp`.
+- Run `npm run watch`.
