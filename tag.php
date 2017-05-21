@@ -1,5 +1,1 @@
-<?php
-	get_header();
-	include_once('inc/main-archive.php');
-	include_once('inc/side.php');
-	get_footer();
+<!--The tag template is used when visitors request posts by tag.-->

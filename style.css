@@ -1,9 +1,13 @@
 /*
 Theme Name:         Theme Name
 Theme URI:          http://pelakweb.ir
-Description:        
-Version:            1.0.0
-Author:             Sajad Dehshiri
+Description:        A simple theme for using gulp to create wordpress theme
+Version:            1.1.0
+Author:             Sajad Dehshiri (sajaddp71@gmail.com)
 Author URI:         http://pelakweb.ir
+
+License:            MIT License
+License URI:        http://opensource.org/licenses/MIT
 */
+
 @import url('dist/css/all.css');

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="fa">
 <head>
+<!--    if you use Wordpress-seo Comment this line-->
 	<title><?php wp_title( '|', TRUE, 'right' ); ?></title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
