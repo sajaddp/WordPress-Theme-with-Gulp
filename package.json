@@ -5,16 +5,20 @@
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
+    "autoprefixer": "^7.1.2",
     "bootstrap": "^3.3.7",
+    "bootstrap-rtl": "^3.3.4",
+    "font-awesome": "^4.7.0",
     "gulp": "^3.9.1",
-    "gulp-clean-css": "^3.4.2",
+    "gulp-clean-css": "^3.7.0",
     "gulp-concat": "^2.6.1",
     "gulp-concat-css": "^2.3.0",
     "gulp-imagemin": "^3.3.0",
+    "gulp-postcss": "^7.0.0",
     "gulp-sourcemaps": "^2.6.0",
     "gulp-uglify": "^3.0.0",
     "jquery": "^3.2.1",
-    "vazir-font": "^11.0.1"
+    "vazir-font": "^13.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
